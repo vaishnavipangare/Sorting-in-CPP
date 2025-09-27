@@ -1,5 +1,5 @@
-// Aditya Bhagwan Jadhav
-// 24070123005
+// Vaishnavi Pangare
+// 25070123501
 
 #include <iostream>
 using namespace std;
@@ -31,4 +31,5 @@ int main() {
 }
 
 // OUTPUT
+
 // 5 6 7 11 12 13
