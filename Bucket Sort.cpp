@@ -1,5 +1,5 @@
-// Aditya Bhagwan Jadhav
-// 24070123005
+// Vaishnavi Pangare
+// 25070123501
 
 #include <iostream>
 #include <vector>
@@ -28,4 +28,5 @@ int main() {
 }
 
 // OUTPUT
+
 // 0.1234 0.3434 0.565 0.656 0.665 0.897
